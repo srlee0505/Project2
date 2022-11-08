@@ -7,6 +7,8 @@ void ViewArr(int*, int );
 int count = 0, on=0;
 int* origin;
 
+int test = 0;
+
 // 순차정렬
 void SequenceSort(int* base, int n) {
 
